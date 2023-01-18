@@ -42,7 +42,6 @@ body {
 
 .link {
     text-decoration: none;
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -66,7 +65,6 @@ body {
 
 .contact-link {
     color: var(--primary-text-color);
-    font-weight: 400;
     font-style: normal;
     font-size: 16px;
     line-height: 1.5;
@@ -82,7 +80,6 @@ body {
 .hero-title {
     color: var(--primary-white-color);
     font-size: 56px;
-    font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
@@ -149,8 +146,6 @@ body {
 
 .section-title {
     color: var(--title-text-color);
-    font-style: normal;
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.1;
     text-align: center;
@@ -160,7 +155,6 @@ body {
 
 /* categories */
 .subtitle {
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -168,7 +162,6 @@ body {
     color: var(--title-text-color);
 }
 .text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -194,7 +187,6 @@ body {
 
 }
 .team-position {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -217,8 +209,6 @@ body {
     text-transform: uppercase;
 }
 .text-footer {
-    font-family: Roboto;
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -226,7 +216,6 @@ body {
 }
 /* Portfolio */
 .title-app {
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -234,7 +223,6 @@ body {
     color: var(--title-text-color);
 }
 .text-app {
-    font-weight: 400;
         font-size: 16px;
         line-height: 1.5px;
         letter-spacing: 0.02em;
